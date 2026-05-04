@@ -1,5 +1,5 @@
 {
-  "Super Minimal Java CP Template (800-1100)": {
+  "Java CP Template": {
     "prefix": "cpm",
     "body": [
       "import java.io.*;",
@@ -84,6 +84,6 @@
       "    private double nd() { return Double.parseDouble(ns()); }",
       "}"
     ],
-    "description": "Super Minimal Java CP Template - use out.println/printf directly"
+    "description": "Minimal CP Template for Java."
   }
 }
